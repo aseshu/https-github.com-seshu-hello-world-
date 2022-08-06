@@ -25,7 +25,7 @@
     <site>
       <id>site-server</id>
       <name>Test Project Site</name>
-      <url>file:///tmp/maven-project-site</url>
+      <url>http://13.235.27.127:8081/repository/maven-snapshots/</url>
     </site>
   </distributionManagement>
 
